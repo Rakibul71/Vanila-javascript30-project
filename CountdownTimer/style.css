@@ -1,8 +1,12 @@
+* {
+  box-sizing: border-box;
+}
 body {
   background: url(./images/photo-1476108621677-3c620901b5e7.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  object-fit: cover;
 }
 
 .time {
