@@ -27,3 +27,4 @@ btns.forEach(function (btn) {
     value.textContent = count;
   });
 });
+// just do it by your  self ..... don't copy
